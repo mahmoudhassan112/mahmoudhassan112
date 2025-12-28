@@ -15,7 +15,7 @@ Interests
 - End-to-End ML Pipelines
 
 Tech Stack
-Python, PyTorch, TensorFlow, scikit-learn, LangChain, FastAPI, Power BI, Git, Linux
+- Python, PyTorch, TensorFlow, scikit-learn, LangChain, FastAPI, Power BI, Git, Linux
 
 Key Projects
 - Brain Tumor Segmentation from MRI scans
