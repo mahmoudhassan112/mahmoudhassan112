@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi 👋 I'm Mahmoud Hassan
 
-<!--
-**mahmoudhassan112/mahmoudhassan112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer with a strong academic background in Artificial Intelligence and Data Science.
+I have hands-on experience in Machine Learning, Deep Learning, and Medical Image Analysis,
+with a strong interest in building real-world, end-to-end AI systems.
 
-Here are some ideas to get you started:
+My work includes brain tumor detection and segmentation from MRI scans using both
+classical techniques and deep learning, as well as developing Retrieval-Augmented
+Generation (RAG) systems using LangChain and modern LLM pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests
+- Medical Image Analysis
+- Deep Learning & Computer Vision
+- NLP and RAG Systems
+- End-to-End ML Pipelines
+
+Tech Stack
+Python, PyTorch, TensorFlow, scikit-learn, LangChain, FastAPI, Power BI, Git, Linux
+
+Key Projects
+- Brain Tumor Segmentation from MRI scans
+- CNN-based Brain Tumor Detection
+- RAG-based Question Answering Systems
+- Customer Churn & HR Analytics Dashboards
+
+Contact
+- LinkedIn: https://www.linkedin.com/in/mahmoud-hassan-7a1176369
+- E-Mail: mahmoudhassan4415@gmail.com
